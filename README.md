@@ -27,14 +27,9 @@ Brief is the new black, this is what inspires the team at Scissor. In today’s 
 - Install Nodejs
 - Open the terminal on your computer.
 - Clone the project to your local computer.
-  `sh 
-git clone 
-`
-
-
+  'git clone https://github.com/maxibrain4/Scissors-urlshortner-project.git'
 
 - Project: Scissors-UrlShortener
 - Built By: Israel Fakunle
 - Email: Maxibrain4@gmail.com
 - Altschool Track: Backend Engineering (Nodes)
-
